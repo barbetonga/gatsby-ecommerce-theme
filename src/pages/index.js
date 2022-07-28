@@ -39,7 +39,7 @@ const IndexPage = () => {
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demo verse by{' '}
+          This is a demo verse by david {' '}
           <span className={styles.gold}>matter design.</span>
         </p>
         <p>
